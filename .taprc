@@ -3,3 +3,4 @@ ts: false
 jsx: false
 flow: false
 coverage: true
+100: true
